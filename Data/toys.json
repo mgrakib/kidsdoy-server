@@ -1,0 +1,61 @@
+{
+	"toys": [
+		
+		{
+			"name": "Enchanted Unicorn",
+			"description": "A beautiful unicorn with a flowing rainbow mane. Press its ear to hear it sing and light up.",
+			"img": "https://i.ibb.co/Ld5bhL0/chef4.jpg",
+			"img2": "https://i.ibb.co/C9K9x9w/chef2.jpg",
+			"price": 19.99,
+			"stock": 5,
+			"rating": 4.3,
+			"catagory": "Frozen Dolls",
+			"typeof": ["PROMINENT PRODUCT"],
+			"seller": "Rakib",
+			"seller_email": "mgrakibbd@gmail.com",
+			"quantity": 10
+		},
+		{
+			"name": "Wizard's Wand",
+			"description": "A magical wand that lights up and makes whimsical sound effects. A must-have for aspiring wizards.",
+			"img": "https://i.ibb.co/Ld5bhL0/chef4.jpg",
+			"img2": "https://i.ibb.co/C9K9x9w/chef2.jpg",
+			"price": 9.99,
+			"stock": 15,
+			"rating": 3.5,
+			"catagory": "Disney Princes",
+			"typeof": ["PROMINENT PRODUCT", "RELATED PRODUCTS"],
+			"seller": "Rakib",
+			"seller_email": "mgrakibbd@gmail.com",
+			"quantity": 10
+		},
+		{
+			"name": "Fairy Tea Party Set",
+			"description": "Invite your friends to a delightful fairy tea party with this charming tea set. Includes teapot, cups, and saucers.",
+			"img": "https://i.ibb.co/Ld5bhL0/chef4.jpg",
+			"img2": "https://i.ibb.co/C9K9x9w/chef2.jpg",
+			"price": 14.99,
+			"stock": 8,
+			"rating": 5,
+			"catagory": "Disney Princes",
+			"typeof": ["QUALITY PRODUCTS"],
+			"seller": "Rakib",
+			"seller_email": "mgrakibbd@gmail.com",
+			"quantity": 10
+		},
+		{
+			"name": "Dragon Knight Action Figure",
+			"description": "An action figure of a brave knight riding a fearsome dragon. Moveable limbs for epic battles.",
+			"img": "https://i.ibb.co/Ld5bhL0/chef4.jpg",
+			"img2": "https://i.ibb.co/C9K9x9w/chef2.jpg",
+			"price": 12.99,
+			"stock": 3,
+			"rating": 5,
+			"catagory": "Animation Characters",
+			"typeof": ["QUALITY PRODUCTS"],
+			"seller": "Rakib",
+			"seller_email": "mgrakibbd@gmail.com",
+			"quantity": 10
+		}
+	]
+}
